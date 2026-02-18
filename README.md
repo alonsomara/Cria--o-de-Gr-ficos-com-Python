@@ -1,1 +1,1 @@
-- Módulo de criação de gráficos no Pycharm após a coleta, tratamento e a preparação de dados no PyCharm. Criação de gráficos de pizza, barras, regressão, mapa de calor, histograma, densidade e dispersão.
+- Módulo de criação de gráficos no Pycharm após a coleta, tratamento e a preparação de dados no PyCharm. Criação de gráficos de pizza, barras, regressão, mapa de calor, histograma, densidade e dispersão utilizando as bibliotecas Pandas, Matplotlib e Seaborn.
