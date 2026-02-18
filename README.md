@@ -1,0 +1,1 @@
+- Criação de gráficos no PyCharm após a coleta, tratamento e preparação de dados.
